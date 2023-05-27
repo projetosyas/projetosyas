@@ -16,8 +16,6 @@
   <a href="https://picasion.com/"><img align="right" height="150" width="150"  src="https://i.picasion.com/pic92/058e05739270de2eb985ed06c820b9fa.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
   </a>
   
-  ![Snake animation](https://github.com/yas/projetosyas/blob/output/github-contribution-grid-snake.svg)
-        </div> 
     
    
  ##  
@@ -25,10 +23,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasnegzx)
 <a href = "mailto:negyasmin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake Animation](https://github.com/projetosyas
-      
+ ![Snake animation](https://github.com/yas/projetosyas/blob/output/github-contribution-grid-snake.svg)
 
-   
+
+         </div> 
    
 
 
