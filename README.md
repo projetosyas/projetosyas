@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA07A=120&section=header" />
 
 ### Olá! Eu sou a Yasmin de Paula 👋
 
