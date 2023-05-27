@@ -1,19 +1,36 @@
 
 ### Olá! Eu sou a Yasmin de Paula 👋
 
+<div>
+  <a href="https://github.com/projetosyas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projetosyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosyas&layout=compact&langs_count=7&theme=radical"/>
+</div>
+   
+ ### Tecnologias que eu utilizo:  
+ 
+  <div style="display: inline_block"><br>
+ <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+   <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Yas-Figma"src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+   </div> 
+   
+ ##  
+   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasnegzx)
+<a href = "mailto:negyasmin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      
 
-![Yasmin de Paula GitHub stats](https://github-readme-stats.vercel.app/api?username=projetosyas&show_icons=true&theme=radical)
+   
+   
 
-### Tecnologias que eu utilizo:
 
-<div style="display: inline_block"><br/> 
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    
+
+
+
     
 
 
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=120&section=footer" />
