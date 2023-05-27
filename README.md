@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://icons8.com.br/icon/20909/html-5." width="50px">
+<img src="  ![html-5-logo-svgrepo-com](https://github.com/projetosyas/projetosyas/assets/100379724/b3e2a621-c78d-4112-a063-d0808e900ac7)
+ " width="50px">
 
 <!--
 **projetosyas/projetosyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
