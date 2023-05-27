@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img scr="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="50px">
+<img src="https://icons8.com.br/icon/20909/html-5." width="50px">
 
 <!--
 **projetosyas/projetosyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
