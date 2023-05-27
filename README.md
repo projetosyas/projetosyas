@@ -23,10 +23,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasnegzx)
 <a href = "mailto:negyasmin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/yas/projetosyas/blob/output/github-contribution-grid-snake.svg)
-
-
-         </div> 
    
 
 
@@ -38,4 +34,4 @@
 
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA07A=120&section=footer" />
